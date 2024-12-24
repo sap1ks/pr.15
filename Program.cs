@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 /// <summary>
-/// Одна штука некоторого товара стоит 20,4 руб. Напечатать таблицу стоимости 2, 3, ..., 20 штук этого товара.
+/// Генерируются 10 случайных целых чисел в интервале (-40, 40). Вывести эти числа.
 /// </summary>
 namespace ConsoleApp16
 {
